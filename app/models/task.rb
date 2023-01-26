@@ -1,3 +1,3 @@
-class Task < ApplicationController
+class Task < ApplicationRecord
 
 end
